@@ -1,3 +1,9 @@
+tutorial: https://reactjs.org/tutorial/tutorial.html
+
+resources:
+  - https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+  - https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
